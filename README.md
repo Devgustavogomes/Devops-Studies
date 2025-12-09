@@ -44,7 +44,7 @@ Este programa oferece uma formação moderna e aprofundada sobre práticas essen
 - Evolução do HTTP
 
 
-🔗 **Repositório da Semana 1:** [Link aqui](https://github.com/SEU_USER/SEU_REPO/tree/main/semana1)
+🔗 **Repositório da Semana 1:** [Link aqui](https://github.com/Devgustavogomes/Devops-Studies/tree/main/semana1)
 
 
 ---
